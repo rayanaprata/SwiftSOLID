@@ -26,3 +26,12 @@ import UIKit
 
 // DIP - Dependency Inversion Principle
 // Dependa de uma abstração e não de uma implementação.
+
+
+// Vantagens da aplicacao destes princípios:
+
+// Seja fácil de manter, adaptar e se ajustar as alterações de escopo.
+// Seja testável e de fácil entendimento.
+// Seja extensível para alterações com o menor esforço necessário.
+// Que forneça o máximo de reaproveitamento.
+// Que permaneça o máximo de tempo possível em utilização.
