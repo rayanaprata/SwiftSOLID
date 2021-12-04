@@ -1,5 +1,6 @@
 import UIKit
 
+
 // O que é SOLID?
 
 // SOLID é um acrônimo dos cinco primeiros princípios da programação orientada a objetos e design de código identificados por Robert C. Martin (também conhecido como Uncle Bob) por volta do ano 2000. O acrônimo SOLID foi introduzido por Michael Feathers, após observar que os cinco princípios poderiam se encaixar nesta palavra.
@@ -9,3 +10,19 @@ import UIKit
 // L  LSP - Liskov Substituition Principle     (Princípio de substituição do Liskov)
 // I  ISP - Interface Segregation Principle    (Princípio da Segregação da Interface)
 // D  DIP - Dependency Inversion Principle     (Princípio da inversão da dependência)
+
+
+// SRP - Single Responsability Principle
+// Uma classe deve ter um, e somente um, motivo para existir.
+
+// OCP - Open-Closed Principle
+// Você deve ser capaz de estender um comportamento de uma classe, sem modificá-lo.
+
+// LSP - Liskov Substituition Principle
+// As classes bases devem ser substituídas por suas classes derivadas.
+
+// ISP - Interface Segregation Principle
+// Muitas interfaces específicas são melhores do que uma interface única.
+
+// DIP - Dependency Inversion Principle
+// Dependa de uma abstração e não de uma implementação.
