@@ -1,6 +1,6 @@
 # SOLID 🗒
 
-Repositório para estudos dos 5 princípios conhecidos como SOLID.
+Repositório para estudos dos 5 princípios da programação orientada a objetos, também conhecidos como SOLID.
 
 ## O que é SOLID?
 
