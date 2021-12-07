@@ -1,6 +1,3 @@
-import UIKit
-
-
 // O que é SOLID?
 
 // SOLID é um acrônimo dos cinco primeiros princípios da programação orientada a objetos e design de código identificados por Robert C. Martin (também conhecido como Uncle Bob) por volta do ano 2000. O acrônimo SOLID foi introduzido por Michael Feathers, após observar que os cinco princípios poderiam se encaixar nesta palavra.
@@ -35,3 +32,12 @@ import UIKit
 // Seja extensível para alterações com o menor esforço necessário.
 // Que forneça o máximo de reaproveitamento.
 // Que permaneça o máximo de tempo possível em utilização.
+
+
+// O que você evita utilizando SOLID:
+
+// Dificuldade na testabilidade/criação de testes de unidade.
+// Código macarrônico, sem estrutura ou padrão.
+// Dificuldades de isolar funcionalidades.
+// Duplicação de código, uma alteração precisa ser feita em N pontos.
+// Fragilidade, o código quebra facilmente em vários pontos após algumas mudanças.
